@@ -1,6 +1,6 @@
-I'm building this full-text search engine as I'm learning Haskell
+I'm building this full-text search as I'm learning Haskell
 
-The goal is to make something roughly similar to Apache Lucene, but with only index and search.
+The goal is to make something roughly similar to how Apache Lucene works, but with only index and search.
 Lucene Core example:
 ```java
 Analyzer analyzer = new StandardAnalyzer();
