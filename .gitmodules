@@ -1,0 +1,3 @@
+[submodule "tshotmtext"]
+	path = tshotmtext
+	url = git@github.com:mbadrala/tshotmtext.git
