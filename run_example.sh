@@ -1,9 +1,7 @@
 #!/bin/bash
 
-echo "Generating example texts"
-cd tshotmtext
-python3 generate.py
-cd ../
-
+echo "++++++++++++++++++++++++++++++++++++++++++"
 echo "Searching for 'king' in example text files"
+echo "++++++++++++++++++++++++++++++++++++++++++"
+echo "cabal run"
 cabal run
